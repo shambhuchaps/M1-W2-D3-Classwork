@@ -1,4 +1,4 @@
-function expericence(){
-   var drp = document.querySelector('.about-drop-content');
+function experience(){
+   var drp = document.querySelector('.abt-drop-content');
    drp.classList.toggle('show');
 }
